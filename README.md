@@ -11,3 +11,6 @@ Dieses Program ist creepy.
 (http://github.com)
 ***
 (https://www.ipcc.ch/)
+=============================================================
+##Eigene Seite:
+ https://polly5.github.io/Geo77_uebung/
